@@ -1,9 +1,5 @@
 ## Hi 👋, I'm Alejandro Hinestroza
 
-<a href="https://www.linkedin.com/in/alejandro-hinestroza-g%C3%B3mez-5b440b284/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-</a>
-
 <!--
 **ahinestrog/ahinestrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
