@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi👋, I'm Alejandro Hinestroza
+
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--
 **ahinestrog/ahinestrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
