@@ -1,6 +1,6 @@
-## Hi👋, I'm Alejandro Hinestroza
+## Hi 👋, I'm Alejandro Hinestroza
 
-![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-hinestroza-g%C3%B3mez-5b440b284/)
 
 <!--
 **ahinestrog/ahinestrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
